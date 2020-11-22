@@ -1,0 +1,29 @@
+h1{
+    color: #002FFF;
+}
+
+.Header{
+    background-color: #FF8800;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Footer{
+    text-align: center;
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: #A200FF;
+}
